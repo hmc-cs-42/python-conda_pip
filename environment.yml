@@ -10,3 +10,4 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+    - librosa
