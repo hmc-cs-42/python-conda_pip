@@ -6,8 +6,8 @@ dependencies:
   - numpy
   - pip
   - pip:
+    - librosa
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
-    - librosa
